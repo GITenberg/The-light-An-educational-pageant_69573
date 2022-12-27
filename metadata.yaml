@@ -1,0 +1,31 @@
+_repo: The-light-An-educational-pageant_69573
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bryce, Catherine T. (Catherine Turner)
+    aliases:
+    - Bryce, C. T. (Catherine Turner)
+    - Bryce, Catherine Turner
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '53290'
+    url: http://www.gutenberg.org/2009/agents/53290
+description: ''
+gutenberg_issued: '2022-12-18'
+identifiers:
+  gutenberg: '69573'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=umn.31951001596386a
+pgterms:marc905: 20220602150837bryce
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: 'United States: The Atlantic Monthly Press,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The light: An educational pageant'
+url: http://www.gutenberg.org/ebooks/69573
