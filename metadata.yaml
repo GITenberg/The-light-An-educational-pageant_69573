@@ -1,5 +1,8 @@
 _repo: The-light-An-educational-pageant_69573
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69573-h/images/cover.jpg
 creator:
   author:
     agent_name: Bryce, Catherine T. (Catherine Turner)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '53290'
     url: http://www.gutenberg.org/2009/agents/53290
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69573#The-light-An-educational-pageant
 gutenberg_issued: '2022-12-18'
 identifiers:
   gutenberg: '69573'
